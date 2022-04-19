@@ -1,3 +1,5 @@
+//by patika.dev
+
 const arguments = process.argv.slice(2);
 
 function circle_A(r)
