@@ -1,0 +1,15 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodehttp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "koa": "^2.13.4"
+  }
+}
